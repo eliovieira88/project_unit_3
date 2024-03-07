@@ -1,4 +1,4 @@
 .env
-requirements
 python_env
 resources
+.ipynb_checkpoints
