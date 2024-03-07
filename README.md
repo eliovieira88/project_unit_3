@@ -24,7 +24,6 @@ The dataset used in this project was obtained from [API SuperHero](https://akaba
 - `project_heroes_villains`: Jupyter Notebook containing the main analysis code.
 - `README.md`: This file providing an overview of the project.
 - `data`: Directory containing the dataset used for analysis.
-- `resourses`: Directory containing images generated during analysis.
 - `slides`: Project presentation
 
 ## Analysis Steps
